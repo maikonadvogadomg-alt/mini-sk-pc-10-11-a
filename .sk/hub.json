@@ -1,0 +1,24 @@
+{
+  "titulo": "Mini-SK-PC-32",
+  "arquivo": "index.html",
+  "itens": [
+    {
+      "path": "app/index.html",
+      "nome": "Mini SK",
+      "desc": "",
+      "on": true,
+      "icone": "app/icons/icon-192.png"
+    },
+    {
+      "path": "electron/navegador.html",
+      "nome": "🌐 Navegador — Mini SK",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    }
+  ],
+  "sub": "",
+  "logo": "",
+  "tema": "claro",
+  "links": []
+}
